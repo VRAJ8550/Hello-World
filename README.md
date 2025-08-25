@@ -9,3 +9,8 @@ My goal is to grow as a developer by continuously learning, sharing knowledge, a
 
 🚀 Always excited to turn ideas into code!
 I love cyber security
+
+## Future Goals
+- Learn Data Structures and Algorithms  
+- Contribute to Open Source projects  
+- Build real-world applications  
