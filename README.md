@@ -8,3 +8,4 @@ I enjoy solving problems, contributing to open-source, and experimenting with ne
 My goal is to grow as a developer by continuously learning, sharing knowledge, and collaborating with the community.  
 
 🚀 Always excited to turn ideas into code!
+I love cyber security
